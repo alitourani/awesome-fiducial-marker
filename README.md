@@ -2,10 +2,6 @@
 
 A curated list of awesome fiducial marker resources for Computer Vision, Robotics, and Augmented Reality (AR).
 
-## 🚀 Contributing
-
-Please feel free to open [pull requests](https://github.com/alitourani/awesome-fiducial-marker/pulls) to update the list.
-
 ## 📋 Table of Contents
 
 - [Marker Libraries](#marker-lists)
@@ -13,6 +9,7 @@ Please feel free to open [pull requests](https://github.com/alitourani/awesome-f
   - [Non-Square Markers](#fm-nonsquare)
   - [Matrix-based Markers](#fm-matrix)
 - [Complementary Methods](#fm-methods)
+- [Contribution](#contribution)
 
 ## Marker Libraries <a id="marker-lists"></a>
 
@@ -58,3 +55,7 @@ Please feel free to open [pull requests](https://github.com/alitourani/awesome-f
 
 - **DeepTag** ([paper 📃](#), [code 💻](#), [docs 📂](#))
 - **DynaTags** ([paper 📃](#), [code 💻](#), [docs 📂](#))
+
+## 🚀 Contribution <a id="contribution"></a>
+
+Please feel free to open [pull requests](https://github.com/alitourani/awesome-fiducial-marker/pulls) to update the list.
