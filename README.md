@@ -18,7 +18,6 @@ Please feel free to open [pull requests](https://github.com/alitourani/awesome-f
 
 ### Arbitrary Markers <a id="fm-arbitrary"></a>
 
-- **ChromaTag** ([paper 📃](https://doi.org/10.1109/ICCV.2017.164), [github 💻](https://github.com/CogChameleon/ChromaTag)) | A colored marker with a fast detection algorithm introduced in 2017
 - **Cybercode** ([paper 📃](#), [code 💻](#), [docs 📂](#))
 - **D-touch** ([paper 📃](#), [code 💻](#), [docs 📂](#))
 - **Nishino-1** ([paper 📃](#), [code 💻](#), [docs 📂](#))
@@ -30,6 +29,7 @@ Please feel free to open [pull requests](https://github.com/alitourani/awesome-f
 - **Topolo Surface** ([paper 📃](#), [code 💻](#), [docs 📂](#))
 - **Visual Code** ([paper 📃](#), [code 💻](#), [docs 📂](#))
 - **VuMark** ([paper 📃](#), [code 💻](#), [docs 📂](#))
+- [2017] **ChromaTag** ([paper 📃](https://doi.org/10.1109/ICCV.2017.164), [github 💻](https://github.com/CogChameleon/ChromaTag)) | A colored marker with a fast detection algorithm introduced in 2017
 
 ### Non-Square Markers <a id="fm-nonsquare"></a>
 
@@ -37,11 +37,11 @@ Please feel free to open [pull requests](https://github.com/alitourani/awesome-f
 - **Cantag** ([paper 📃](#), [code 💻](#), [docs 📂](#))
 - **CCTag** ([paper 📃](#), [code 💻](#), [docs 📂](#))
 - **FourierTag** ([paper 📃](#), [code 💻](#), [docs 📂](#))
-- **Intersense** ([paper 📃](#), [code 💻](#), [docs 📂](#))
 - **Pi-Tag** ([paper 📃](#), [code 💻](#), [docs 📂](#))
 - **RandomDot** ([paper 📃](#), [code 💻](#), [docs 📂](#))
 - **RUNE-Tag** ([paper 📃](#), [code 💻](#), [docs 📂](#))
 - **WhyCode** ([paper 📃](#), [code 💻](#), [docs 📂](#))
+- [2002] **Intersense** ([paper 📃](https://doi.org/10.1109/ISMAR.2002.1115065)) | A circular data matrix marker for wearable vision-inertial tracking
 
 ### Matrix-based Markers <a id="fm-matrix"></a>
 
