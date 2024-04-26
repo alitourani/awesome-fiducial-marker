@@ -23,13 +23,13 @@ A curated list of awesome fiducial marker resources for Computer Vision, Robotic
 - **Nishino-1** ([paper 📃](#), [code 💻](#), [docs 📂](#))
 - **Nishino-2** ([paper 📃](#), [code 💻](#), [docs 📂](#))
 - **ReacTIVision** ([paper 📃](#), [code 💻](#), [docs 📂](#))
-- **Seedmarkers** ([paper 📃](https://dl.acm.org/doi/pdf/10.1145/3430524.3440645), [code 💻](#), [docs 📂](#))
 - **STag** ([paper 📃](#), [code 💻](#), [docs 📂](#))
 - **SIFTTag** ([paper 📃](#), [code 💻](#), [docs 📂](#))
 - **Topotag** ([paper 📃](#), [code 💻](#), [docs 📂](#))
 - **Topolo Surface** ([paper 📃](#), [code 💻](#), [docs 📂](#))
 - **Visual Code** ([paper 📃](#), [code 💻](#), [docs 📂](#))
 - **VuMark** ([paper 📃](#), [code 💻](#), [docs 📂](#))
+- [2021] **Seedmarkers** ([paper 📃](https://doi.org/10.1145/3430524.3440645), [github 💻](https://github.com/volzotan/Seedmarkers), [docs 📂](https://volzo.de/thing/seedmarker/))
 - [2017] **ChromaTag** ([paper 📃](https://doi.org/10.1109/ICCV.2017.164), [github 💻](https://github.com/CogChameleon/ChromaTag)) | A colored marker with a fast detection algorithm introduced in 2017
 
 ### Dot Markers <a id="fm-dot"></a>
