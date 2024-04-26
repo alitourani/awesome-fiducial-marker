@@ -17,11 +17,18 @@ Please feel free to open [pull requests](https://github.com/alitourani/awesome-f
 
 ### Arbitrary Markers <a id="fm-arbitrary"></a>
 
-- **Sample** ([paper 📃](#), [code 💻](#), [docs 📂](#))
+- **Intersense** ([paper 📃](#), [code 💻](#), [docs 📂](#))
 
 ### Non-Square Markers <a id="fm-nonsquare"></a>
 
-- **Sample** ([paper 📃](#), [code 💻](#), [docs 📂](#))
+- **BullsEye** ([paper 📃](#), [code 💻](#), [docs 📂](#))
+- **Cantag** ([paper 📃](#), [code 💻](#), [docs 📂](#))
+- **CCTag** ([paper 📃](#), [code 💻](#), [docs 📂](#))
+- **Intersense** ([paper 📃](#), [code 💻](#), [docs 📂](#))
+- **Pi-Tag** ([paper 📃](#), [code 💻](#), [docs 📂](#))
+- **RandomDot** ([paper 📃](#), [code 💻](#), [docs 📂](#))
+- **RUNE-Tag** ([paper 📃](#), [code 💻](#), [docs 📂](#))
+- **WhyCode** ([paper 📃](#), [code 💻](#), [docs 📂](#))
 
 ### Matrix-based Markers <a id="fm-matrix"></a>
 
