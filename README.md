@@ -29,8 +29,8 @@ A curated list of awesome fiducial marker resources for Computer Vision, Robotic
 - **Topolo Surface** ([paper 📃](#), [code 💻](#), [docs 📂](#))
 - **Visual Code** ([paper 📃](#), [code 💻](#), [docs 📂](#))
 - **VuMark** ([paper 📃](#), [code 💻](#), [docs 📂](#))
-- [2021] **Seedmarkers** ([paper 📃](https://doi.org/10.1145/3430524.3440645), [github 💻](https://github.com/volzotan/Seedmarkers), [docs 📂](https://volzo.de/thing/seedmarker/))
-- [2017] **ChromaTag** ([paper 📃](https://doi.org/10.1109/ICCV.2017.164), [github 💻](https://github.com/CogChameleon/ChromaTag)) | A colored marker with a fast detection algorithm introduced in 2017
+- [2021] **Seedmarkers** ([paper 📃](https://doi.org/10.1145/3430524.3440645), [github 💻](https://github.com/volzotan/Seedmarkers), [docs 📂](https://volzo.de/thing/seedmarker/)) | Embeddable Markers for Physical Objects
+- [2017] **ChromaTag** ([paper 📃](https://doi.org/10.1109/ICCV.2017.164), [github 💻](https://github.com/CogChameleon/ChromaTag)) | A colored marker with a fast detection algorithm
 
 ### Dot Markers <a id="fm-dot"></a>
 
