@@ -18,7 +18,7 @@ Please feel free to open [pull requests](https://github.com/alitourani/awesome-f
 
 ### Arbitrary Markers <a id="fm-arbitrary"></a>
 
-- **ChromaTag** ([paper 📃](#), [code 💻](#), [docs 📂](#))
+- **ChromaTag** ([paper 📃](https://doi.org/10.1109/ICCV.2017.164), [github 💻](https://github.com/CogChameleon/ChromaTag)) | A colored marker with a fast detection algorithm introduced in 2017
 - **Cybercode** ([paper 📃](#), [code 💻](#), [docs 📂](#))
 - **D-touch** ([paper 📃](#), [code 💻](#), [docs 📂](#))
 - **Nishino-1** ([paper 📃](#), [code 💻](#), [docs 📂](#))
