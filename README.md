@@ -12,6 +12,7 @@ Please feel free to open [pull requests](https://github.com/alitourani/awesome-f
   - [Arbitrary Markers](#fm-arbitrary)
   - [Non-Square Markers](#fm-nonsquare)
   - [Matrix-based Markers](#fm-matrix)
+- [Complementary Methods](#fm-methods)
 
 ## Marker Libraries <a id="marker-lists"></a>
 
@@ -42,4 +43,16 @@ Please feel free to open [pull requests](https://github.com/alitourani/awesome-f
 
 ### Matrix-based Markers <a id="fm-matrix"></a>
 
-- **Sample** ([paper 📃](#), [code 💻](#), [docs 📂](#))
+- **Matrix** ([paper 📃](#), [code 💻](#), [docs 📂](#))
+- **ARToolKit** ([paper 📃](#), [code 💻](#), [docs 📂](#))
+- **ARToolKitPlus** ([paper 📃](#), [code 💻](#), [docs 📂](#))
+- **ARTag** ([paper 📃](#), [code 💻](#), [docs 📂](#))
+- **BinARyID** ([paper 📃](#), [code 💻](#), [docs 📂](#))
+- **AprilTag** ([paper 📃](#), [code 💻](#), [docs 📂](#))
+- **ArUco Marker** ([paper 📃](#), [code 💻](#), [docs 📂](#))
+- **CALTag** ([paper 📃](#), [code 💻](#), [docs 📂](#))
+
+## Complementary Methods <a id="fm-methods"></a>
+
+- **DeepTag** ([paper 📃](#), [code 💻](#), [docs 📂](#))
+- **DynaTags** ([paper 📃](#), [code 💻](#), [docs 📂](#))
