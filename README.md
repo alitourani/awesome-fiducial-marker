@@ -17,7 +17,17 @@ Please feel free to open [pull requests](https://github.com/alitourani/awesome-f
 
 ### Arbitrary Markers <a id="fm-arbitrary"></a>
 
-- **Intersense** ([paper 📃](#), [code 💻](#), [docs 📂](#))
+- **ChromaTag** ([paper 📃](#), [code 💻](#), [docs 📂](#))
+- **Cybercode** ([paper 📃](#), [code 💻](#), [docs 📂](#))
+- **D-touch** ([paper 📃](#), [code 💻](#), [docs 📂](#))
+- **Nishino-1** ([paper 📃](#), [code 💻](#), [docs 📂](#))
+- **Nishino-2** ([paper 📃](#), [code 💻](#), [docs 📂](#))
+- **reacTIVision** ([paper 📃](#), [code 💻](#), [docs 📂](#))
+- **STag** ([paper 📃](#), [code 💻](#), [docs 📂](#))
+- **Topotag** ([paper 📃](#), [code 💻](#), [docs 📂](#))
+- **Topolo Surface** ([paper 📃](#), [code 💻](#), [docs 📂](#))
+- **Visual Code** ([paper 📃](#), [code 💻](#), [docs 📂](#))
+- **VuMark** ([paper 📃](#), [code 💻](#), [docs 📂](#))
 
 ### Non-Square Markers <a id="fm-nonsquare"></a>
 
