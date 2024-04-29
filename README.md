@@ -62,7 +62,7 @@ A curated list of awesome fiducial marker resources for Computer Vision, Robotic
 
 ## Complementary Methods <a id="fm-methods"></a>
 
-- **DeepTag** ([paper 📃](#), [code 💻](#), [docs 📂](#))
+- **DeepTag** ([paper 📃](https://doi.ieeecomputersociety.org/10.1109/TPAMI.2022.3174603), [github 💻](https://github.com/herohuyongtao/deeptag-pytorch), [docs 📂](https://herohuyongtao.github.io/research/publications/deep-tag/)) | A general framework for robust fiducial marker design and detection
 - [2022] **DynaTags** ([paper 📃](https://dl.acm.org/doi/10.1145/3536221.3556591), [github 💻](https://github.com/FIGLAB/DynaTags), [web-page 🌐](https://www.figlab.com/research/2022/dynatags)) | A low-cost dynamic paper-based fiducial marker mechanism
 
 ## 🚀 Contribution <a id="contribution"></a>
