@@ -41,13 +41,13 @@ A curated list of awesome fiducial marker resources for Computer Vision, Robotic
 ### Non-Square Markers <a id="fm-nonsquare"></a>
 
 - **Cantag** ([paper 📃](#), [code 💻](#), [docs 📂](#))
-- **CCC** ([paper 📃](https://doi.org/10.1117/12.56761), [code 💻](#), [docs 📂](#))
 - **FourierTag** ([paper 📃](#), [code 💻](#), [docs 📂](#))
 - **WhyCode** ([paper 📃](#), [code 💻](#), [docs 📂](#))
 - **WhyCon** ([paper 📃](#), [code 💻](#), [docs 📂](#))
 - [2014] **BullsEye** ([paper 📃](https://dl.acm.org/doi/10.1145/2669485.2669503), [web-page 🌐](https://cavi.au.dk/technologies/bullseye)) | High-precision fiducial tracking for table-based tangible interaction
 - [2012] **CC-Tag** ([paper 📃](https://doi.org/10.1109/ICIP.2012.6467121), [paper 📃](https://doi.org/10.1109/CVPR.2016.67), [github 💻](https://github.com/alicevision/CCTag), [docs 📂](https://cctag.readthedocs.io/en/latest/)) | A concentric circular marker for camera tracking
 - [2002] **Intersense** ([paper 📃](https://doi.org/10.1109/ISMAR.2002.1115065)) | A circular data matrix marker for wearable vision-inertial tracking
+- [1992] **CCC** ([paper 📃](https://doi.org/10.1117/12.56761)) | Using concentric contrasting circles for feature extraction
 
 ### Matrix-based Markers <a id="fm-matrix"></a>
 
