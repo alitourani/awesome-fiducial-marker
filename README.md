@@ -41,8 +41,8 @@ A curated list of awesome fiducial marker resources for Computer Vision, Robotic
 ### Non-Square Markers <a id="fm-nonsquare"></a>
 
 - **FourierTag** ([paper 📃](#), [code 💻](#), [docs 📂](#))
-- **WhyCode** ([paper 📃](#), [code 💻](#), [docs 📂](#))
-- **WhyCon** ([paper 📃](#), [code 💻](#), [docs 📂](#))
+- [2017] **WhyCode** ([paper 📃](https://dl.acm.org/doi/10.1145/3019612.3019709), [github 💻](https://github.com/gestom/whycon-orig), [ros 🤖](https://github.com/jiriUlr/whycon-ros))
+- [2015] **WhyCon** ([paper 📃](https://robotica.dc.uba.ar/public/papers/nitsche2015.pdf), [github 💻](https://github.com/gestom/whycon-orig), [ros 🤖](https://github.com/jiriUlr/whycon-ros))
 - [2014] **BullsEye** ([paper 📃](https://dl.acm.org/doi/10.1145/2669485.2669503), [web-page 🌐](https://cavi.au.dk/technologies/bullseye)) | High-precision fiducial tracking for table-based tangible interaction
 - [2012] **CC-Tag** ([paper 📃](https://doi.org/10.1109/ICIP.2012.6467121), [paper 📃](https://doi.org/10.1109/CVPR.2016.67), [github 💻](https://github.com/alicevision/CCTag), [docs 📂](https://cctag.readthedocs.io/en/latest/)) | A concentric circular marker for camera tracking
 - [2006] **Cantag** ([paper 📃](https://doi.org/10.1109/PERCOM.2006.13), [code 💻](https://www.cl.cam.ac.uk/%7Eacr31/cantag/), [docs 📂](https://www.cl.cam.ac.uk/%7Eacr31/cantag/)) | An open source software toolkit for marker-based vision systems
