@@ -35,8 +35,8 @@ A curated list of awesome fiducial marker resources for Computer Vision, Robotic
 ### Dot Markers <a id="fm-dot"></a>
 
 - **RandomDot** ([paper 📃](#), [code 💻](#), [docs 📂](#))
-- **RuneTag** ([paper 📃](#), [code 💻](#), [docs 📂](#))
 - [2012] **Pi-Tag** ([paper 📃](https://link.springer.com/article/10.1007/s00138-012-0469-6), [github 💻](https://github.com/mpetroff/pi-tag-detector), [ros 🤖](http://wiki.ros.org/cob_fiducials)) | A fast image-space marker design based on projective invariants
+- [2011] **RUNE-Tag** ([paper 📃](https://doi.org/10.1109/CVPR.2011.5995544), [github 💻](https://github.com/artursg/RUNEtag), [code 💻](http://www.dsi.unive.it/~bergamasco/runetag/RUNEtag.zip)) | An accurate fiducial marker with strong occlusion resilience
 
 ### Planar/Circular Markers <a id="fm-nonsquare"></a>
 
