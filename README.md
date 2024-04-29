@@ -7,7 +7,7 @@ A curated list of awesome fiducial marker resources for Computer Vision, Robotic
 - [Marker Libraries](#marker-lists)
   - [Arbitrary Markers](#fm-arbitrary)
   - [Dot Markers](#fm-dot)
-  - [Non-Square Markers](#fm-nonsquare)
+  - [Planar/Circular Markers](#fm-nonsquare)
   - [Matrix-based Markers](#fm-matrix)
 - [Complementary Methods](#fm-methods)
 - [Contribution](#contribution)
@@ -34,17 +34,17 @@ A curated list of awesome fiducial marker resources for Computer Vision, Robotic
 
 ### Dot Markers <a id="fm-dot"></a>
 
-- **Pi-Tag** ([paper 📃](#), [code 💻](#), [docs 📂](#))
 - **RandomDot** ([paper 📃](#), [code 💻](#), [docs 📂](#))
 - **RuneTag** ([paper 📃](#), [code 💻](#), [docs 📂](#))
+- [2012] **Pi-Tag** ([paper 📃](https://link.springer.com/article/10.1007/s00138-012-0469-6), [github 💻](https://github.com/mpetroff/pi-tag-detector), [ros 🤖](http://wiki.ros.org/cob_fiducials)) | A fast image-space marker design based on projective invariants
 
-### Non-Square Markers <a id="fm-nonsquare"></a>
+### Planar/Circular Markers <a id="fm-nonsquare"></a>
 
 - [2017] **WhyCode** ([paper 📃](https://dl.acm.org/doi/10.1145/3019612.3019709), [github 💻](https://github.com/gestom/whycon-orig), [ros 🤖](https://github.com/jiriUlr/whycon-ros)) | A precise, efficient, and low-cost localization system
 - [2015] **WhyCon** ([paper 📃](https://robotica.dc.uba.ar/public/papers/nitsche2015.pdf), [github 💻](https://github.com/gestom/whycon-orig), [ros 🤖](https://github.com/jiriUlr/whycon-ros)) | A precise, efficient, and low-cost localization system
 - [2014] **BullsEye** ([paper 📃](https://dl.acm.org/doi/10.1145/2669485.2669503), [web-page 🌐](https://cavi.au.dk/technologies/bullseye)) | High-precision fiducial tracking for table-based tangible interaction
 - [2012] **CC-Tag** ([paper 📃](https://doi.org/10.1109/ICIP.2012.6467121), [paper 📃](https://doi.org/10.1109/CVPR.2016.67), [github 💻](https://github.com/alicevision/CCTag), [docs 📂](https://cctag.readthedocs.io/en/latest/)) | A concentric circular marker for camera tracking
-- [2011] **FourierTag** ([paper 📃](https://doi.org/10.1109/CRV.2011.13), [github 💻](https://github.com/anqixu/ftag2)) | A smoothly degradable marker system with configurable payload capacity
+- [2011] **FourierTag** ([paper 📃](https://doi.org/10.1109/CRV.2011.13), [github 💻](https://github.com/anqixu/ftag2)) | A smoothly degradable marker with configurable payload capacity
 - [2006] **Cantag** ([paper 📃](https://doi.org/10.1109/PERCOM.2006.13), [code 💻](https://www.cl.cam.ac.uk/%7Eacr31/cantag/), [docs 📂](https://www.cl.cam.ac.uk/%7Eacr31/cantag/)) | An open source software toolkit for marker-based vision systems
 - [2002] **Intersense** ([paper 📃](https://doi.org/10.1109/ISMAR.2002.1115065)) | A circular data matrix marker for wearable vision-inertial tracking
 - [1992] **CCC** ([paper 📃](https://doi.org/10.1117/12.56761)) | Using concentric contrasting circles for feature extraction
