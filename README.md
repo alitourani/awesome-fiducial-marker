@@ -40,13 +40,13 @@ A curated list of awesome fiducial marker resources for Computer Vision, Robotic
 
 ### Non-Square Markers <a id="fm-nonsquare"></a>
 
-- **BullsEye** ([paper 📃](#), [code 💻](#), [docs 📂](#))
 - **Cantag** ([paper 📃](#), [code 💻](#), [docs 📂](#))
 - **CC-Tag** ([paper 📃](https://doi.org/10.1109/ICIP.2012.6467121), [code 💻](#), [docs 📂](#))
 - **CCC** ([paper 📃](https://doi.org/10.1117/12.56761), [code 💻](#), [docs 📂](#))
 - **FourierTag** ([paper 📃](#), [code 💻](#), [docs 📂](#))
 - **WhyCode** ([paper 📃](#), [code 💻](#), [docs 📂](#))
 - **WhyCon** ([paper 📃](#), [code 💻](#), [docs 📂](#))
+- [2014] **BullsEye** ([paper 📃](https://dl.acm.org/doi/10.1145/2669485.2669503), [web-page 🌐](https://cavi.au.dk/technologies/bullseye))
 - [2002] **Intersense** ([paper 📃](https://doi.org/10.1109/ISMAR.2002.1115065)) | A circular data matrix marker for wearable vision-inertial tracking
 
 ### Matrix-based Markers <a id="fm-matrix"></a>
