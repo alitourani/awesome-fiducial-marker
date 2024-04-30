@@ -25,8 +25,8 @@ A curated list of awesome fiducial marker resources for Computer Vision, Robotic
 - [] **ReacTIVision** ([paper 📃](#), [code 💻](#), [docs 📂](#))
 - [] **STag** ([paper 📃](#), [code 💻](#), [docs 📂](#))
 - [] **SIFTTag** ([paper 📃](#), [code 💻](#), [docs 📂](#))
-- [] **Topotag** ([paper 📃](#), [code 💻](#), [docs 📂](#))
 - [2023] **VuMark** ([paper 📃](https://doi.org/10.3390/app13031496), [code 💻](https://developer.vuforia.com/downloads/samples), [docs 📂](https://developer.vuforia.com/library/vumarks/vumark-design-guide)) | Customized marker designs with data encoding
+- [2021] **Topotag** ([paper 📃](https://doi.ieeecomputersociety.org/10.1109/TVCG.2020.2988466), [github 💻](https://github.com/herohuyongtao/topotag), [docs 📂](https://herohuyongtao.github.io/research/publications/topo-tag/)) | Robust and scalable topological marker system
 - [2021] **Seedmarkers** ([paper 📃](https://doi.org/10.1145/3430524.3440645), [github 💻](https://github.com/volzotan/Seedmarkers), [docs 📂](https://volzo.de/thing/seedmarker/)) | Embeddable Markers for Physical Objects
 - [2017] **ChromaTag** ([paper 📃](https://doi.org/10.1109/ICCV.2017.164), [github 💻](https://github.com/CogChameleon/ChromaTag)) | A colored marker with a fast detection algorithm
 - [2010] **Topolo Surface** ([paper 📃](https://doi.org/10.2197/ipsjjip.18.16)) | Topological region adjacency and angle information
