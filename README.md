@@ -16,7 +16,6 @@ A curated list of awesome fiducial marker resources for Computer Vision, Robotic
 
 ### Arbitrary Markers <a id="fm-arbitrary"></a>
 
-- [] **ARTTag** ([paper 📃](https://doi.org/10.1145/2945078.2945116), [code 💻](#), [docs 📂](#))
 - [] **Cybercode** ([paper 📃](https://doi.org/10.1145/354666.354667), [code 💻](#), [docs 📂](#))
 - [] **D-touch** ([paper 📃](#), [code 💻](#), [docs 📂](#))
 - [] **Farkas** ([paper 📃](https://doi.org/10.1109/IECON.2012.6388951), [code 💻](#), [docs 📂](#))
@@ -27,6 +26,7 @@ A curated list of awesome fiducial marker resources for Computer Vision, Robotic
 - [2021] **Seedmarkers** ([paper 📃](https://doi.org/10.1145/3430524.3440645), [github 💻](https://github.com/volzotan/Seedmarkers), [docs 📂](https://volzo.de/thing/seedmarker/)) | Embeddable Markers for Physical Objects
 - [2019] **STag** ([paper 📃](https://doi.org/10.1016/j.imavis.2019.06.007), [github 💻](https://github.com/bbenligiray/stag), [ros 🤖](https://github.com/usrl-uofsc/stag_ros/), [docs 📂](https://roboticsknowledgebase.com/wiki/sensing/stag/)) | A marker robust against jitter factors
 - [2017] **ChromaTag** ([paper 📃](https://doi.org/10.1109/ICCV.2017.164), [github 💻](https://github.com/CogChameleon/ChromaTag)) | A colored marker with a fast detection algorithm
+- [2016] **ARTTag** ([paper 📃](https://doi.org/10.1145/2945078.2945116)) | Aesthetic fiducial markers based on circle pairs
 - [2010] **Topolo Surface** ([paper 📃](https://doi.org/10.2197/ipsjjip.18.16)) | Topological region adjacency and angle information
 - [2009] **SIFTTag** ([paper 📃](https://api.semanticscholar.org/CorpusID:10011163)) | Maximum detector response markers for SIFT and SURF
 - [2007] **ReacTIVision** ([paper 📃](https://dl.acm.org/doi/abs/10.1145/1226969.1226983), [github 💻](https://github.com/mkalten/reacTIVision), [docs 📂](https://reactivision.sourceforge.net/)) | A framework for table-based tangible interaction
@@ -51,6 +51,7 @@ A curated list of awesome fiducial marker resources for Computer Vision, Robotic
 
 ### Matrix-based Markers <a id="fm-matrix"></a>
 
+- [2019] **Fractal Marker** ([paper 📃](https://doi.org/10.1109/ACCESS.2019.2951204), [code 💻](https://sourceforge.net/projects/aruco/files/), [docs 📂](https://www.uco.es/investiga/grupos/ava/portfolio/fractal-markers/)) | Nested markers with several square markers
 - [2014] **ArUco Marker** ([paper 📃](https://doi.org/10.1016/j.patcog.2014.01.005), [code 💻](https://sourceforge.net/projects/aruco/), [ros 🤖](https://github.com/pal-robotics/aruco_ros), [docs 📂](https://docs.opencv.org/4.x/d5/dae/tutorial_aruco_detection.html)) | Highly reliable fiducial markers under occlusion
 - [2011] **AprilTag** ([paper 📃](https://doi.org/10.1109/ICRA.2011.5979561), [github 💻](https://github.com/AprilRobotics/apriltag), [ros 🤖](https://github.com/AprilRobotics/apriltag_ros), [docs 📂](https://april.eecs.umich.edu/software/apriltag)) | A visual fiducial system popular in robotics
 - [2010] **CALTag** ([paper 📃](https://diglib.eg.org/handle/10.2312/PE.VMV.VMV10.041-048), [github 💻](https://github.com/brada/caltag), [docs 📂](https://www.cs.ubc.ca/labs/imager/tr/2010/Atcheson_VMV2010_CALTag/)) | High precision markers for camera calibration
