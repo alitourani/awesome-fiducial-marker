@@ -19,14 +19,14 @@ A curated list of awesome fiducial marker resources for Computer Vision, Robotic
 - [] **Cybercode** ([paper 📃](https://doi.org/10.1145/354666.354667), [code 💻](#), [docs 📂](#))
 - [] **D-touch** ([paper 📃](#), [code 💻](#), [docs 📂](#))
 - [] **Farkas** ([paper 📃](https://doi.org/10.1109/IECON.2012.6388951), [code 💻](#), [docs 📂](#))
-- [] **Nishino-1** ([paper 📃](#), [code 💻](#), [docs 📂](#))
-- [] **Nishino-2** ([paper 📃](#), [code 💻](#), [docs 📂](#))
 - [2023] **VuMark** ([paper 📃](https://doi.org/10.3390/app13031496), [code 💻](https://developer.vuforia.com/downloads/samples), [docs 📂](https://developer.vuforia.com/library/vumarks/vumark-design-guide)) | Customized marker designs with data encoding
 - [2021] **Topotag** ([paper 📃](https://doi.ieeecomputersociety.org/10.1109/TVCG.2020.2988466), [github 💻](https://github.com/herohuyongtao/topotag), [docs 📂](https://herohuyongtao.github.io/research/publications/topo-tag/)) | Robust and scalable topological marker system
 - [2021] **Seedmarkers** ([paper 📃](https://doi.org/10.1145/3430524.3440645), [github 💻](https://github.com/volzotan/Seedmarkers), [docs 📂](https://volzo.de/thing/seedmarker/)) | Embeddable Markers for Physical Objects
 - [2019] **STag** ([paper 📃](https://doi.org/10.1016/j.imavis.2019.06.007), [github 💻](https://github.com/bbenligiray/stag), [ros 🤖](https://github.com/usrl-uofsc/stag_ros/), [docs 📂](https://roboticsknowledgebase.com/wiki/sensing/stag/)) | A marker robust against jitter factors
 - [2017] **ChromaTag** ([paper 📃](https://doi.org/10.1109/ICCV.2017.164), [github 💻](https://github.com/CogChameleon/ChromaTag)) | A colored marker with a fast detection algorithm
 - [2016] **ARTTag** ([paper 📃](https://doi.org/10.1145/2945078.2945116)) | Aesthetic fiducial markers based on circle pairs
+- [2010] **Nishino-1** ([paper 📃](https://doi.org/10.1145/1709886.1709937)) | A 6DoF tracking method based on topological adjacency
+- [2010] **Nishino-2** ([paper 📃](https://dl.acm.org/doi/abs/10.1145/1873951.1874148)) | | A shape-free, designable 6-DoF marker tracking method
 - [2010] **Topolo Surface** ([paper 📃](https://doi.org/10.2197/ipsjjip.18.16)) | Topological region adjacency and angle information
 - [2009] **SIFTTag** ([paper 📃](https://api.semanticscholar.org/CorpusID:10011163)) | Maximum detector response markers for SIFT and SURF
 - [2007] **ReacTIVision** ([paper 📃](https://dl.acm.org/doi/abs/10.1145/1226969.1226983), [github 💻](https://github.com/mkalten/reacTIVision), [docs 📂](https://reactivision.sourceforge.net/)) | A framework for table-based tangible interaction
