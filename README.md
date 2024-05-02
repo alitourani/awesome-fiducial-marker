@@ -51,7 +51,7 @@ A curated list of awesome fiducial marker resources for Computer Vision, Robotic
 
 ### Matrix-based Markers <a id="fm-matrix"></a>
 
-- [2014] **ArUco Marker** ([paper 📃](https://doi.org/10.1016/j.patcog.2014.01.005), [code 💻](https://sourceforge.net/projects/aruco/), [ros 🤖](https://github.com/pal-robotics/aruco_ros), [docs 📂](https://docs.opencv.org/4.x/d5/dae/tutorial_aruco_detection.html))
+- [2014] **ArUco Marker** ([paper 📃](https://doi.org/10.1016/j.patcog.2014.01.005), [code 💻](https://sourceforge.net/projects/aruco/), [ros 🤖](https://github.com/pal-robotics/aruco_ros), [docs 📂](https://docs.opencv.org/4.x/d5/dae/tutorial_aruco_detection.html)) | Highly reliable fiducial markers under occlusion
 - [2011] **AprilTag** ([paper 📃](https://doi.org/10.1109/ICRA.2011.5979561), [github 💻](https://github.com/AprilRobotics/apriltag), [ros 🤖](https://github.com/AprilRobotics/apriltag_ros), [docs 📂](https://april.eecs.umich.edu/software/apriltag)) | A visual fiducial system popular in robotics
 - [2010] **CALTag** ([paper 📃](https://diglib.eg.org/handle/10.2312/PE.VMV.VMV10.041-048), [github 💻](https://github.com/brada/caltag), [docs 📂](https://www.cs.ubc.ca/labs/imager/tr/2010/Atcheson_VMV2010_CALTag/)) | High precision markers for camera calibration
 - [2007] **BinARyID** ([paper 📃](http://dx.doi.org/10.2312/PE/VE2007Short/059-064)) | An ID-based extension for marker tracking systems
