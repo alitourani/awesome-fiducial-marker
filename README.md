@@ -53,11 +53,11 @@ A curated list of awesome fiducial marker resources for Computer Vision, Robotic
 
 - [] **ARToolKit** ([paper 📃](#), [code 💻](#), [docs 📂](#))
 - [] **ARToolKitPlus** ([paper 📃](#), [code 💻](#), [docs 📂](#))
-- [] **ARTag** ([paper 📃](#), [code 💻](#), [docs 📂](#))
-- [] **BinARyID** ([paper 📃](#), [code 💻](#), [docs 📂](#))
 - [] **AprilTag** ([paper 📃](#), [code 💻](#), [docs 📂](#))
 - [] **ArUco Marker** ([paper 📃](#), [code 💻](#), [docs 📂](#))
 - [2010] **CALTag** ([paper 📃](https://diglib.eg.org/handle/10.2312/PE.VMV.VMV10.041-048), [github 💻](https://github.com/brada/caltag), [docs 📂](https://www.cs.ubc.ca/labs/imager/tr/2010/Atcheson_VMV2010_CALTag/)) | High precision markers for camera calibration
+- [2007] **BinARyID** ([paper 📃](http://dx.doi.org/10.2312/PE/VE2007Short/059-064)) | An ID-based extension for marker tracking systems
+- [2005] **ARTag** ([paper 📃](https://doi.org/10.1109/CVPR.2005.74), [github (not-official) 💻](https://github.com/harshkakashaniya/AR-tag-detection)) | A fiducial marker system using digital techniques
 - [1998] **Matrix** ([paper 📃](https://doi.org/10.1109/APCHI.1998.704151)) | Real-time object identification for augmented reality
 
 ## Complementary Methods <a id="fm-methods"></a>
